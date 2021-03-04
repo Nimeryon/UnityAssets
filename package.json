@@ -1,0 +1,9 @@
+{
+  "name": "com.onilin_studio.assets",
+  "displayName": "NimeryaAssets",
+  "description": "Nimerya Asset library",
+  "category": "Utility",
+  "version": "0.1.0",
+  "unity": "2020.4",
+  "type": "library"
+}
